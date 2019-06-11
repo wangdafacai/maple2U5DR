@@ -1,10 +1,10 @@
 Package: maple2U5DR
 Type: Package
-Title: model averaged projections of under 5 death rate (Title Case)
+Title: model averaged projections of under 5 death rate 
 Version: 0.1.0
 Author: Ruhai Bai
 Maintainer: The package maintainer <bairuhai@stu.xjtu.edu.cn>
-Description: maple is an R package for fitting statistical models on demographic data to produce projections of death rates  (maybe more than one line)
+Description: maple2U5DR is an R package for fitting statistical models on demographic data to produce projections of under 5 death rates
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
